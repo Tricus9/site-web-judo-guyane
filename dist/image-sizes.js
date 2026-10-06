@@ -1,0 +1,1 @@
+window.IMAGE_SIZES={"assets/aerien.webp":[996,560],"assets/championnat.webp":[1920,1080],"assets/facade.webp":[996,560],"assets/interieur.webp":[996,560],"assets/panorama.webp":[996,560],"assets/scolaire.webp":[1080,525],"assets/tatamis.webp":[996,560]};
